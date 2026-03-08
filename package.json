@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Proyecto API REST para la gestión de películas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no se tiene un test definido\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["node js","mongodb","API"],
+  "author": "Maria Lucia Lopez Cordoba",
+  "license": "ISC",
+  "type": "commonjs"
+}
