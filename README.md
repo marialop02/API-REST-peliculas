@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Proyecto - API REST de Películas y Series 
 Este es un proyecto de Backend desarrollado con **Node.js** y **Express** para la gestion de contenidos multimedia, utilizando **MongoDB Atlas** como base de datos en la nube. 
 ---
@@ -22,3 +23,7 @@ Este es un proyecto de Backend desarrollado con **Node.js** y **Express** para l
 Para iniciar el servidor en modo desarrollo (con **Nodemon**)
 ```bash
 npm run dev
+=======
+# API-REST-peliculas
+Este es un proyecto de Backend desarrollado con Node.js y Express para la gestion de contenidos multimedia, utilizando MongoDB Atlas como base de datos en la nube.
+>>>>>>> 50f40495db23eea336d8ad8eb88be2562166a377
