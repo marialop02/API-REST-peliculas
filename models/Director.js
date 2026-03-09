@@ -1,6 +1,13 @@
+/* Permitirá registrar y editar el director principal (solo uno, pues como sabemos, pueden ser varios) de la producción. Se necesitará guardar la siguiente información:
+# I. Nombres
+# II. Estado (Activo o Inactivo)
+# III. Fecha de creación
+# IV. Fecha de actualización*/
+
+
 const { Schema, model } = require('mongoose');
 
-const DeneroSchema = Schema ({
+const DirectorSchema = Schema ({
     nombre: {
         type: String,
         required: [true, 'El nombre es obligatorio'],

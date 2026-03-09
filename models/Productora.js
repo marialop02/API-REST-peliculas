@@ -43,4 +43,4 @@ const ProductoraSchema = Schema ({
     }
 })
 
-module.exports = model('Director', DirectorSchema);
+module.exports = model('Productora', ProductoraSchema);
