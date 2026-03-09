@@ -31,7 +31,7 @@ const ProductoraSchema = Schema ({
         required: true,
         default: Date.now
     },
-    Slogan: {
+    slogan: {
         type: String,
         required: [true, 'El slogan es obligatorio'],
         trim: true 
