@@ -5,7 +5,7 @@ Este es un proyecto de Backend desarrollado con **Node.js** y **Express** para l
 ### Instalación y configuración:
 1. **Clonar este repositorio**
     ```bash 
-    git clone *url*
+    git clone *https://github.com/marialop02/API-REST-peliculas.git*
 
 2. **Instalar Dependencias**
     Accede a la carpeta `backend`y ejecuta:
